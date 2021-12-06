@@ -1,5 +1,5 @@
 ---
-title: 'Two Forms of Pre-rendering鉄血のオルフェンズ'
+title: '鉄血のオルフェンズ最高です'
 date: '2020-01-01'
 ---
 
